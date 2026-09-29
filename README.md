@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CognitiveRFP — Adaptive Proposal & RFP Agent
 
 > **“Every proposal teaches the next proposal how to win.”**
@@ -82,3 +83,6 @@ npm run dev
 * **Frontend Dev Server**: [http://localhost:3000](http://localhost:3000)
 * **Backend API & Production App**: [http://localhost:3001](http://localhost:3001)
 * **API Health Check**: [http://localhost:3001/api/health](http://localhost:3001/api/health)
+=======
+# CognitiveRFP
+>>>>>>> 0470de2baab4ed95294baa1dd457f67b1b8644cd
